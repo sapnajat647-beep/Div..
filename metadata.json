@@ -1,0 +1,6 @@
+{
+  "name": "StudySpace",
+  "description": "Your ultimate personal study sanctuary featuring deep focus timers, synthesized ambient focus audio, smart study notes, and AI-powered active recall quizzes and flashcards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
